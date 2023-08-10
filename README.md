@@ -9,3 +9,4 @@ I (StarNumber) wrote the code on the 6th of September 2022. I packaged it and sa
 - Unzip it
 -   Put your wallpapers in the "Wallpapers" folder
 -   Run WallpaperChanger.exe
+You can also follow our video tutorial [here](https://youtu.be/QB4l50AcptU)
